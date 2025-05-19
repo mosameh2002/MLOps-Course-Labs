@@ -7,6 +7,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.utils import resample
 from sklearn.model_selection import train_test_split
+import joblib
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.compose import make_column_transformer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -117,7 +118,7 @@ def main():
     mlflow.set_experiment("Churn Prediction Experiment")
 
     with mlflow.start_run():
-        df = pd.read_csv("data/Churn_Modelling.csv")
+        df = pd.read_csv("C:/Users/mo/Desktop/MLops/MLOps-Course-Labs/data/Churn_Modelling.csv")
         col_transf, X_train, X_test, y_train, y_test = preprocess(df)
 
         # Log model parameters
@@ -143,7 +144,8 @@ def main():
         # Log model with input/output schema
         signature = infer_signature(X_train, model.predict(X_train))
         mlflow.sklearn.log_model(model, "model", signature=signature)
-
+        joblib.dump(model, "model.pkl")
+        joblib.dump(X_train.columns.tolist(), "columns.pkl")  
         # Log confusion matrix
         conf_mat = confusion_matrix(y_test, y_pred, labels=model.classes_)
         conf_mat_disp = ConfusionMatrixDisplay(confusion_matrix=conf_mat, display_labels=model.classes_)
