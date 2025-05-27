@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+mlflow
+numpy
+fastapi
+uvicorn
+pytest
+# Add others if needed (like pandas, scikit-learn, etc.)

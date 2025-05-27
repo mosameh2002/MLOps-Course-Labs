@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/856342533944876911/bd36b4b6534a4df8bf00470c2c2df3eb/artifacts
+end_time: 1747637656118
+entry_point_name: ''
+experiment_id: '856342533944876911'
+lifecycle_stage: active
+run_id: bd36b4b6534a4df8bf00470c2c2df3eb
+run_name: peaceful-mule-701
+run_uuid: bd36b4b6534a4df8bf00470c2c2df3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747637656061
+status: 4
+tags: []
+user_id: mo

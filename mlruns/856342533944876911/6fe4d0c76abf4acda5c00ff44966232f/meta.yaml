@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/856342533944876911/6fe4d0c76abf4acda5c00ff44966232f/artifacts
+end_time: 1747637212189
+entry_point_name: ''
+experiment_id: '856342533944876911'
+lifecycle_stage: active
+run_id: 6fe4d0c76abf4acda5c00ff44966232f
+run_name: classy-hawk-250
+run_uuid: 6fe4d0c76abf4acda5c00ff44966232f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747637212137
+status: 4
+tags: []
+user_id: mo

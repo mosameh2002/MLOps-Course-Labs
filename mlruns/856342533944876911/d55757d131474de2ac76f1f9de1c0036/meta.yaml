@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/856342533944876911/d55757d131474de2ac76f1f9de1c0036/artifacts
+end_time: 1747637888999
+entry_point_name: ''
+experiment_id: '856342533944876911'
+lifecycle_stage: active
+run_id: d55757d131474de2ac76f1f9de1c0036
+run_name: likeable-bird-707
+run_uuid: d55757d131474de2ac76f1f9de1c0036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747637888945
+status: 4
+tags: []
+user_id: mo

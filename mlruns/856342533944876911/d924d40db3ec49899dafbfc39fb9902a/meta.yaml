@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/856342533944876911/d924d40db3ec49899dafbfc39fb9902a/artifacts
+end_time: 1747604420060
+entry_point_name: ''
+experiment_id: '856342533944876911'
+lifecycle_stage: active
+run_id: d924d40db3ec49899dafbfc39fb9902a
+run_name: popular-skink-814
+run_uuid: d924d40db3ec49899dafbfc39fb9902a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747604419946
+status: 4
+tags: []
+user_id: mo

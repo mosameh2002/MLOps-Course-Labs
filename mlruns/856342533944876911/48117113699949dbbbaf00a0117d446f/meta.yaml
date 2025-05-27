@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/856342533944876911/48117113699949dbbbaf00a0117d446f/artifacts
+end_time: 1747640886204
+entry_point_name: ''
+experiment_id: '856342533944876911'
+lifecycle_stage: active
+run_id: 48117113699949dbbbaf00a0117d446f
+run_name: vaunted-robin-251
+run_uuid: 48117113699949dbbbaf00a0117d446f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747640876661
+status: 4
+tags: []
+user_id: mo

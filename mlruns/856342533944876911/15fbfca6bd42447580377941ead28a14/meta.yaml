@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/856342533944876911/15fbfca6bd42447580377941ead28a14/artifacts
+end_time: 1747637229776
+entry_point_name: ''
+experiment_id: '856342533944876911'
+lifecycle_stage: active
+run_id: 15fbfca6bd42447580377941ead28a14
+run_name: sincere-hog-68
+run_uuid: 15fbfca6bd42447580377941ead28a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747637229728
+status: 4
+tags: []
+user_id: mo

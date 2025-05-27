@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/856342533944876911/cba6d5111bd84348bddccf2968c82723/artifacts
+end_time: 1747637194346
+entry_point_name: ''
+experiment_id: '856342533944876911'
+lifecycle_stage: active
+run_id: cba6d5111bd84348bddccf2968c82723
+run_name: masked-kit-929
+run_uuid: cba6d5111bd84348bddccf2968c82723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747637194281
+status: 4
+tags: []
+user_id: mo

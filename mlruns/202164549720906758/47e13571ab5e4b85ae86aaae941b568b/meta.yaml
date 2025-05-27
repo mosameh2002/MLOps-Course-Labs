@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mo/Desktop/MLops/MLOps-Course-Labs/mlruns/202164549720906758/47e13571ab5e4b85ae86aaae941b568b/artifacts
+end_time: 1747635801472
+entry_point_name: ''
+experiment_id: '202164549720906758'
+lifecycle_stage: active
+run_id: 47e13571ab5e4b85ae86aaae941b568b
+run_name: adaptable-rook-495
+run_uuid: 47e13571ab5e4b85ae86aaae941b568b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747605219681
+status: 3
+tags: []
+user_id: mo

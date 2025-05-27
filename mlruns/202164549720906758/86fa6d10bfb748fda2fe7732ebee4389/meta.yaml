@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mo/Desktop/MLops/MLOps-Course-Labs/mlruns/202164549720906758/86fa6d10bfb748fda2fe7732ebee4389/artifacts
+end_time: 1747641014756
+entry_point_name: ''
+experiment_id: '202164549720906758'
+lifecycle_stage: active
+run_id: 86fa6d10bfb748fda2fe7732ebee4389
+run_name: bustling-snipe-513
+run_uuid: 86fa6d10bfb748fda2fe7732ebee4389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747640915640
+status: 3
+tags: []
+user_id: mo
